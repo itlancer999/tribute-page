@@ -1,0 +1,45 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#main {
+  text-align: center;
+  font-family: helavetica;
+  background-image: url("https://sentiospace.com/wp-content/uploads/2018/03/vignette-background-sentiospace.jpg");
+  background-repeat: repeat;
+  
+}
+#img-caption {
+  color: white;
+}
+
+#tribute-info {
+  background-color: #333333;
+  color: black;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-top:20px;
+  text-align: justify;
+  line-height: 22px;
+}
+
+#tribute-link {
+  color: white;
+  padding-bottom: 10px;
+}
+.responsive {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
+.sml-container {
+  padding-top: 30px; 
+}
+
+#title {
+  background-color: #333333;
+}
+
+
